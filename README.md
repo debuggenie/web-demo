@@ -1,2 +1,2 @@
 # web-demo
-Web app demo
+Web app demo.
